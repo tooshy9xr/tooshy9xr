@@ -1,9 +1,77 @@
 <h1 align="center">Hi 👋, I'm TOOSHY</h1>
-<h3 align="center">Cybersecurity analysis/security operations</h3>
+<h3 align="center">Cybersecurity Analyst | SOC | Splunk | DFIR | Threat Hunting | Purple Team</h3>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 🧠 About Me
+- Cybersecurity analyst focused on **Security Operations (SOC)** and **Threat Detection Engineering**
+- Specialized in **SIEM, Incident Response, DFIR, Threat Hunting & Cloud Security**
+- Strong background in **Programming & Security Automation**
+- Building **real-world security projects & simulations** for professional-level readiness
+
+---
+
+## 🏆 Earned Certifications (Already Obtained)
+
+### ✅ Core Security & SOC
+- Google Cybersecurity Professional Certificate  
+
+### ✅ Splunk
+- Splunk Knowledge Manager  
+- Splunk Expert of Search  
+
+---
+
+## 🎯 Target Certifications (Next Goals)
+
+- CISSP        - CCNA
+- CRTO         - google netowrk secruity
+- GCIA         - google cloud security 
+- GCIH         - CCD
+- GXPN         - PMRP
+- PNPT         - PSAP
+- CRTP         - OSDA
+- CND          - BLTA2
+- ECES         - ECDFP
+- eCPPT        - ECIR
+- eMAPT        - CDSA
+- eJPT         - SC-200
+- CYSA+        - security+
+- SAL1 
+---
+
+## 🛠️ Programming Languages & Technologies
 <p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+## 🔐 Security Skills
+- SIEM & Log Analysis (Splunk)
+---
+## 📂 Projects Portfolio
+- 🔹 Splunk Threat Detection & Dashboards  
+---
+## 🎯 Career Objective
+Professional roles targeted:
+- SOC Analyst (L1–L2)
+- Threat Hunter
+- DFIR Analyst
+- Cloud Security Analyst
+- Purple Team Engineer
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/tooshy9xr
+- LinkedIn: www.linkedin.com/in/ali-hayder-ba3b00350
+
+---
