@@ -14,10 +14,10 @@
 ## 🏆 Earned Certifications (Already Obtained)
 
 ### ✅ Core Security & SOC
-- Google Cybersecurity Professional  link https://coursera.org/share/89342f9bf1a7830f810b927b0f9f8614
+- Google Cybersecurity Professional [link](https://coursera.org/share/89342f9bf1a7830f810b927b0f9f8614)
 
 ### ✅ Splunk
-- Splunk Knowledge Manager  
+- Splunk Knowledge Manager [link](https://coursera.org/share/f99d65c8db7f3e9a39bdbf6c2b62de15)
 - Splunk Expert of Search  
 
 ---
