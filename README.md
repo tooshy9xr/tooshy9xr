@@ -71,7 +71,7 @@ Professional roles targeted:
 ---
 
 ## 📫 Contact
-- GitHub: https://github.com/tooshy9xr
-- LinkedIn: www.linkedin.com/in/ali-hayder-ba3b00350
+- GitHub: [link](https://github.com/tooshy9xr)
+- LinkedIn: [link](www.linkedin.com/in/ali-hayder-ba3b0035)
 
 ---
