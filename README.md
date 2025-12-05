@@ -58,7 +58,7 @@
 - SIEM & Log Analysis (Splunk)
 ---
 ## 📂 Projects Portfolio
-- 🔹 Splunk Threat Detection & Dashboards  
+- 🔹 Myproject
 ---
 ## 🎯 Career Objective
 Professional roles targeted:
