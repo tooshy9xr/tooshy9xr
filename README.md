@@ -4,7 +4,7 @@
 ---
 
 ## 🧠 About Me
-- Cybersecurity analyst focused on **Security Operations (SOC)** and **Threat Detection Engineering**
+- Cybersecurity analyst focused on **Security Operations (SOC)** and **Threat Detection Engineering** and **Security analyst**
 - Specialized in **SIEM, Incident Response, DFIR, Threat Hunting & Cloud Security**
 - Strong background in **Programming & Security Automation**
 - Building **real-world security projects & simulations** for professional-level readiness
