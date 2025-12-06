@@ -52,9 +52,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
 </p>
 
----
-![Image](https://github.com/user-attachments/assets/49c1c5cb-92cb-4682-9e99-b7b409f094b6) <br>
-this is my dream 
 
 ---
 ## 🔐 Security Skills
@@ -70,6 +67,9 @@ Professional roles targeted:
 - DFIR Analyst
 - Cloud Security Analyst
 - Purple Team Engineer
+---
+![Image](https://github.com/user-attachments/assets/49c1c5cb-92cb-4682-9e99-b7b409f094b6) <br>
+this is my dream 
 
 ---
 
