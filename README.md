@@ -53,12 +53,14 @@
 </p>
 
 ---
-
+this is my dream <br>
+![Image](https://github.com/user-attachments/assets/49c1c5cb-92cb-4682-9e99-b7b409f094b6) 
+---
 ## 🔐 Security Skills
 - SIEM & Log Analysis (Splunk)
 ---
 ## 📂 Projects Portfolio
--  [Splunk-full-Search](https://github.com/tooshy9xr/My-Project#)
+-  [Splunk-full-Search](https://github.com/tooshy9xr/My-Project#) 
 ---
 ## 🎯 Career Objective
 Professional roles targeted:
