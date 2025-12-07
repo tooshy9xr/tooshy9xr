@@ -58,7 +58,7 @@
 - SIEM & Log Analysis (Splunk)
 ---
 ## 📂 Projects Portfolio
--  [Splunk-full-Search](https://github.com/tooshy9xr/My-Project#) 
+-  [Splunk-mastery](https://github.com/tooshy9xr/My-Project#) 
 ---
 ## 🎯 Career Objective
 Professional roles targeted:
