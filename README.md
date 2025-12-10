@@ -52,8 +52,7 @@ I actively work on real-world security labs, blue-team simulations, and SOC work
 ---
 
 ## 📂 Projects Portfolio
-- **Splunk Mastery Project** — Advanced searches, dashboards, detections  
-  [View Project](https://github.com/tooshy9xr/My-Project#)
+- **Splunk Mastery** — Advanced searches, dashboards, detections  [View Project](https://github.com/tooshy9xr/My-Project#)
 
 More projects coming soon.
 
