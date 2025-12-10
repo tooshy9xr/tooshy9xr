@@ -17,9 +17,9 @@ I actively work on real-world security labs, blue-team simulations, and SOC work
 ---
 ## 🏆 Certifications :
 ### **cybersecurity / SOC / analyst:-**
-google cybersecurity [link](https://coursera.org/share/8ee503a1a8f4434dc970d6a8c721ad1e)<br>
-Splunk Knowledge Manager [link](https://coursera.org/share/f99d65c8db7f3e9a39bdbf6c2b62de15)<br>
-Splunk Search Expert [link](https://coursera.org/share/e2789d2031c3a8d02f9ef292d4e5ae61)<br>
+google cybersecurity  [link](https://coursera.org/share/8ee503a1a8f4434dc970d6a8c721ad1e)<br>
+Splunk Knowledge Manager  [link](https://coursera.org/share/f99d65c8db7f3e9a39bdbf6c2b62de15)<br>
+Splunk Search Expert  [link](https://coursera.org/share/e2789d2031c3a8d02f9ef292d4e5ae61)<br>
 ### **penetration testing:-**
 ### **it spport:-**
 ### **programing language:-**
