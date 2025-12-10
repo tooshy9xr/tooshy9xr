@@ -12,7 +12,8 @@ Focused on building strong capabilities in:
 - Security Automation and Detection Engineering
 - Cloud Security (GCP / Azure)
 
-I actively work on real-world security labs, blue-team simulations, and SOC workflows to strengthen hands-on expertise.
+I actively work on real-world security labs, blue-team simulations, and SOC workflows to strengthen hands-on expertise.<br>
+
 ---
 ## 🏆 Certifications :
 ### **cybersecurity/SOC/analyst:-**
