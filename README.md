@@ -1,46 +1,32 @@
-<h1 align="center">Hi 👋, I'm TOOSHY</h1>
-<h3 align="center">Cybersecurity Analyst | SOC | Splunk | DFIR | Threat Hunting | Purple Team</h3>
+<h1 align="center">Hi, I'm TOOSHY</h1>
+<h3 align="center">Cybersecurity Analyst | SOC | DFIR | Threat Hunting | Splunk | Purple Team</h3>
 
 ---
 
 ## 🧠 About Me
-- Cybersecurity analyst focused on **Security Operations (SOC)** and **Threat Detection Engineering** and **Security analyst**
-- Specialized in **SIEM, Incident Response, DFIR, Threat Hunting & Cloud Security**
-- Strong background in **Programming & Security Automation**
-- Building **real-world security projects & simulations** for professional-level readiness
+Cybersecurity analyst specializing in **Security Operations**, **Threat Detection**, and **Incident Response**.  
+Focused on building strong capabilities in:
+- SIEM Operations (Splunk)
+- Digital Forensics & Incident Response (DFIR)
+- Threat Hunting & Adversary Emulation
+- Security Automation and Detection Engineering
+- Cloud Security (GCP / Azure)
+
+I actively work on real-world security labs, blue-team simulations, and SOC workflows to strengthen hands-on expertise.
 
 ---
-
-## 🏆 Earned Certifications (Already Obtained)
-
-### ✅ Core Security & SOC
-- Google Cybersecurity Professional [link](https://coursera.org/share/89342f9bf1a7830f810b927b0f9f8614)
-
-### ✅ Splunk
-- Splunk Knowledge Manager [link](https://coursera.org/share/f99d65c8db7f3e9a39bdbf6c2b62de15)
-- Splunk Expert of Search  
-
----
-
 ## 🎯 Target Certifications (Next Goals)
 
-- CISSP        - CCNA
-- CRTO         - google netowrk secruity
-- GCIA         - google cloud security 
-- GCIH         - CCD
-- GXPN         - PMRP
-- PNPT         - PSAP
-- CRTP         - OSDA
-- CND          - BLTA2
-- ECES         - ECDFP
-- eCPPT        - ECIR
-- eMAPT        - CDSA
-- eJPT         - SC-200
-- CYSA+        - security+
-- SAL1 
+| Category | Certifications |
+|---------|----------------|
+| **Security & Blue Team** | CISSP, GCIA, GCIH, GXPN, CYSA+, Security+, CND, ECIR, ECDFP, CDSA,SC-200,OSDA,CCD |
+| **Red / Purple Team & Offensive** |CEH, PNPT, eCPPT, eMAPT, eJPT  |
+| **Cloud & Network** | CCNA, Google Network Security, Google Cloud Security  |
+
 ---
 
-## 🛠️ Programming Languages & Technologies
+## 🛠️ Programming & Technical Tools
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
@@ -52,29 +38,44 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
 </p>
 
+---
+
+## 🔐 Key Security Skills
+- Security Operations (SOC) L1/L2  
+- SIEM & Log Analysis (Splunk)  
+- Incident Response & Triage  
+- Digital Forensics (Host & Network)  
+- Malware Analysis (Basic–Intermediate)  
+- Threat Intelligence & Detection Engineering  
+- Cloud Security Monitoring (GCP / Azure)  
 
 ---
-## 🔐 Security Skills
-- SIEM & Log Analysis (Splunk)
----
+
 ## 📂 Projects Portfolio
--  [Splunk-mastery](https://github.com/tooshy9xr/My-Project#) 
+- **Splunk Mastery Project** — Advanced searches, dashboards, detections  
+  [View Project](https://github.com/tooshy9xr/My-Project#)
+
+More projects coming soon.
+
 ---
+
 ## 🎯 Career Objective
-Professional roles targeted:
-- SOC Analyst (L1–L2)
-- Threat Hunter
-- DFIR Analyst
-- Cloud Security Analyst
-- Purple Team Engineer
+Focused on developing expertise for roles such as:
+- SOC Analyst (L1–L2)  
+- Threat Hunter  
+- DFIR Analyst  
+- Cloud Security Analyst  
+- Purple Team Engineer  
+
 ---
-![Image](https://github.com/user-attachments/assets/49c1c5cb-92cb-4682-9e99-b7b409f094b6) <br>
-this is my dream 
+
+## 🌟 Vision
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/49c1c5cb-92cb-4682-9e99-b7b409f094b6" width="600"/>
+</p>
 
 ---
 
 ## 📫 Contact
-- GitHub: [link](https://github.com/tooshy9xr)
-- LinkedIn: [link](www.linkedin.com/in/ali-hayder-ba3b0035)
-
----
+- **GitHub:** https://github.com/tooshy9xr  
+- **LinkedIn:** https://www.linkedin.com/in/ali-hayder-ba3b0035  
