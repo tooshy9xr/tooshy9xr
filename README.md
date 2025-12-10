@@ -68,14 +68,6 @@ Focused on developing expertise for roles such as:
 - Purple Team Engineer  
 
 ---
-
-## 🌟 Vision
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/49c1c5cb-92cb-4682-9e99-b7b409f094b6" width="600"/>
-</p>
-
----
-
 ## 📫 Contact
 - **GitHub:** https://github.com/tooshy9xr  
 - **LinkedIn:** https://www.linkedin.com/in/ali-hayder-ba3b0035  
