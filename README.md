@@ -28,6 +28,7 @@ I build strong hands-on expertise through **⚙️ real-world labs, 🧪 SOC sim
 
 </td>
 <td width="35%" align="center">
+
 <img src="https://user-images.githubusercontent.com/74038190/212897718-2a4b0a94-1d8c-4d7f-9b36-6b4d3e7e6e5c.gif" width="340"/>
 
 </td>
