@@ -20,10 +20,13 @@ I build strong hands-on expertise through real-world labs, SOC simulations, and 
 - ⚙️ Security Automation & Analytics
 
 ---
-
 ## 🏆 Certifications
 
-### 🔵 Cybersecurity / SOC
+<details>
+<summary><strong>🔵 Cybersecurity / SOC</strong></summary>
+
+<br>
+
 - **Google Cybersecurity Professional Certificate**  
   🔗 https://coursera.org/share/8ee503a1a8f4434dc970d6a8c721ad1e
 
@@ -33,11 +36,30 @@ I build strong hands-on expertise through real-world labs, SOC simulations, and 
 - **Splunk Search Expert**  
   🔗 https://coursera.org/share/e2789d2031c3a8d02f9ef292d4e5ae61
 
-### 🔴 Penetration Testing
+</details>
+
+---
+
+<details>
+<summary><strong>🔴 Penetration Testing</strong></summary>
+
+<br>
+
 - _In Progress_
 
-### 🟡 IT Support
+</details>
+
+---
+
+<details>
+<summary><strong>🟡 IT Support</strong></summary>
+
+<br>
+
 - _In Progress_
+
+</details>
+
 
 ---
 
