@@ -37,26 +37,6 @@ I build strong hands-on expertise through **⚙️ real-world labs, 🧪 SOC sim
 
 ---
 
-### 🧩 Cybersecurity & SOC Identity
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SOC-Analyst-blue?style=for-the-badge&logo=security&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Threat-Hunting-red?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DFIR-Digital_Forensics-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Red-Team-darkred?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Purple-Team-indigo?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SIEM-Splunk-black?style=for-the-badge&logo=splunk"/>
-  <img src="https://img.shields.io/badge/Malware-Analysis-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Incident-Response-critical?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cloud-Security-blueviolet?style=for-the-badge&logo=googlecloud"/>
-  <img src="https://img.shields.io/badge/Detection-Engineering-success?style=for-the-badge"/>
-</p>
-
----
-
 ### 💻 Programming & Scripting Languages
 
 <p align="left">
