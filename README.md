@@ -37,6 +37,22 @@ I build strong hands-on expertise through **⚙️ real-world labs, 🧪 SOC sim
 
 ---
 
+### 💻 Programming & Scripting Languages
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
+</p>
+
+---
+
 ## 🛠️ Professional Tools & Technologies ⚙️🧰
 
 <details>
@@ -45,32 +61,28 @@ I build strong hands-on expertise through **⚙️ real-world labs, 🧪 SOC sim
 
 | 🧩 Category | 🛠️ Tools |
 |----------|---------|
-| 📊 **SIEM & Log Analysis** | Splunk, ELK Stack, QRadar, Microsoft Sentinel |
-| 🖥️ **Endpoint Security** | Sysmon, OSQuery, Microsoft Defender |
-| 🌐 **Network Monitoring** | Wireshark, Zeek, Suricata, snort |
-| 🧠 **Threat Intelligence** | VirusTotal, MISP, AlienVault OTX |
-| 🚨 **Incident Response** | TheHive, Cortex, Wazuh |
+| 📊 SIEM & Log Analysis | Splunk, ELK Stack, QRadar, Microsoft Sentinel |
+| 🖥️ Endpoint Security | Sysmon, OSQuery, Microsoft Defender |
+| 🌐 Network Monitoring | Wireshark, Zeek, Suricata, snort |
+| 🧠 Threat Intelligence | VirusTotal, MISP, AlienVault OTX |
+| 🚨 Incident Response | TheHive, Cortex, Wazuh |
 
 </details>
 
----
-
 <details>
-<summary><strong>🔴 Red Team / Offensive Security Tools 💀</strong></summary>
+<summary><strong>🔴 Red Team / Offensive Security 💀</strong></summary>
 <br>
 
 | 🧩 Category | 🛠️ Tools |
 |----------|---------|
-| 🕵️ **Reconnaissance** | Nmap, Amass, Netcat |
-| 🌍 **Web App Testing** | Burp Suite, SQLmap, Nikto, Gobuster |
-| 💥 **Exploitation** | Metasploit, CrackMapExec |
-| 🔐 **Credential Attacks** | Hydra, John The Ripper, Hashcat |
-| 🧬 **Active Directory** | BloodHound, Mimikatz |
-| 🎯 **C2 Knowledge** | Cobalt Strike (Knowledge Level) |
+| 🕵️ Reconnaissance | Nmap, Amass, Netcat |
+| 🌍 Web App Testing | Burp Suite, SQLmap, Nikto, Gobuster |
+| 💥 Exploitation | Metasploit, CrackMapExec |
+| 🔐 Credential Attacks | Hydra, John The Ripper, Hashcat |
+| 🧬 Active Directory | BloodHound, Mimikatz |
+| 🎯 C2 Knowledge | Cobalt Strike (Knowledge Level) |
 
 </details>
-
----
 
 <details>
 <summary><strong>🟣 DFIR & Malware Analysis 🧪</strong></summary>
@@ -78,14 +90,12 @@ I build strong hands-on expertise through **⚙️ real-world labs, 🧪 SOC sim
 
 | 🧩 Category | 🛠️ Tools |
 |----------|---------|
-| 💾 **Disk & Memory Forensics** | Autopsy, FTK Imager, Volatility |
-| 🧬 **Malware Analysis** | Ghidra, IDA (Basic), REMnux |
-| 🧠 **Binary Analysis** | PEStudio, YARA |
-| 🪟 **Windows Internals** | Procmon, Process Explorer |
+| 💾 Disk & Memory Forensics | Autopsy, FTK Imager, Volatility |
+| 🧬 Malware Analysis | Ghidra, IDA (Basic), REMnux |
+| 🧠 Binary Analysis | PEStudio, YARA |
+| 🪟 Windows Internals | Procmon, Process Explorer |
 
 </details>
-
----
 
 <details>
 <summary><strong>☁️ Cloud & Operating Systems 🖥️</strong></summary>
@@ -93,9 +103,9 @@ I build strong hands-on expertise through **⚙️ real-world labs, 🧪 SOC sim
 
 | 🧩 Category | 🛠️ Tools |
 |----------|---------|
-| ☁️ **Cloud Security** | Azure Security Center, GCP Security Command Center |
-| 🐧 **Operating Systems** | Kali Linux, Ubuntu, Windows |
-| 🧪 **Virtual Labs** | VMware, VirtualBox |
+| ☁️ Cloud Security | Azure Security Center, GCP Security Command Center |
+| 🐧 Operating Systems | Kali Linux, Ubuntu, Windows |
+| 🧪 Virtual Labs | VMware, VirtualBox |
 
 </details>
 
@@ -107,27 +117,34 @@ I build strong hands-on expertise through **⚙️ real-world labs, 🧪 SOC sim
 <summary><strong>🔵 Cybersecurity / SOC</strong></summary>
 <br>
 
-- **Google Cybersecurity Professional Certificate**  
-  🔗 https://coursera.org/share/8ee503a1a8f4434dc970d6a8c721ad1e
+- Google Cybersecurity Professional Certificate  
+  https://coursera.org/share/8ee503a1a8f4434dc970d6a8c721ad1e
 
-- **Splunk Knowledge Manager**  
-  🔗 https://coursera.org/share/f99d65c8db7f3e9a39bdbf6c2b62de15
+- Splunk Knowledge Manager  
+  https://coursera.org/share/f99d65c8db7f3e9a39bdbf6c2b62de15
 
-- **Splunk Search Expert**  
-  🔗 https://coursera.org/share/e2789d2031c3a8d02f9ef292d4e5ae61
+- Splunk Search Expert  
+  https://coursera.org/share/e2789d2031c3a8d02f9ef292d4e5ae61
+
+</details>
+
+<details>
+<summary><strong>💻 Programming Certifications</strong></summary>
+<br>
+
+- 🐍 Python Programming (Planned)
+- ☕ Java Programming (Planned)
+- 🌐 JavaScript Fundamentals (Planned)
+- 🖥️ Bash & Linux Scripting (Planned)
+- 🗄️ SQL & Database Fundamentals (Planned)
+- ⚙️ C / C++ Programming (Planned)
+- 🪟 PowerShell for Security Automation (Planned)
+- 💎 Ruby Programming Basics (Planned)
 
 </details>
 
 <details>
 <summary><strong>🔴 Penetration Testing</strong></summary>
-<br>
-
-- soon 
-
-</details>
-
-<details>
-<summary><strong>☁️ Cloud & Defensive</strong></summary>
 <br>
 
 - soon
@@ -142,13 +159,11 @@ I build strong hands-on expertise through **⚙️ real-world labs, 🧪 SOC sim
 Advanced SPL searches, dashboards, alerts & detection use-cases  
 🔗 https://github.com/tooshy9xr/My-Project
 
-_More advanced SOC & DFIR projects coming soon._
-
 ---
 
 ## 🎯 Career Objective 🎯
 
-Preparing for advanced roles such as:
+Preparing for advanced roles:
 - 🛡️ SOC Analyst (L1–L2)
 - 🔍 Threat Hunter
 - 🧪 DFIR Analyst
@@ -158,8 +173,8 @@ Preparing for advanced roles such as:
 ---
 
 ## 📫 Contact 📡
-- 🐙 **GitHub:** https://github.com/tooshy9xr  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/ali-hayder-ba3b0035  
+- 🐙 GitHub: https://github.com/tooshy9xr  
+- 💼 LinkedIn: https://www.linkedin.com/in/ali-hayder-ba3b0035  
 
 ---
 
