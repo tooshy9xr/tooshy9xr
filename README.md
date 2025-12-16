@@ -29,7 +29,7 @@ I build strong hands-on expertise through **⚙️ real-world labs, 🧪 SOC sim
 </td>
 <td width="35%" align="center">
 
-<img src="./cctv.gif" width="340"/>
+<img src="./cctv(1).gif" width="340"/>
 
 </td>
 </tr>
