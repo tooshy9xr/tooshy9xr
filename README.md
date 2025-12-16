@@ -32,9 +32,28 @@ I build strong hands-on expertise through **⚙️ real-world labs, 🧪 SOC sim
 <img src="./cyber.gif" width="340"/>
 
 </td>
-
 </tr>
 </table>
+
+---
+
+### 🧩 Cybersecurity & SOC Identity
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SOC-Analyst-blue?style=for-the-badge&logo=security&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Threat-Hunting-red?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DFIR-Digital_Forensics-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Red-Team-darkred?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Purple-Team-indigo?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SIEM-Splunk-black?style=for-the-badge&logo=splunk"/>
+  <img src="https://img.shields.io/badge/Malware-Analysis-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Incident-Response-critical?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cloud-Security-blueviolet?style=for-the-badge&logo=googlecloud"/>
+  <img src="https://img.shields.io/badge/Detection-Engineering-success?style=for-the-badge"/>
+</p>
 
 ---
 
@@ -60,13 +79,13 @@ I build strong hands-on expertise through **⚙️ real-world labs, 🧪 SOC sim
 <summary><strong>🔵 Blue Team / SOC Tools 🛡️</strong></summary>
 <br>
 
-| 🧩 Category | 🛠️ Tools |
-|----------|---------|
-| 📊 SIEM & Log Analysis | Splunk, ELK Stack, QRadar, Microsoft Sentinel |
-| 🖥️ Endpoint Security | Sysmon, OSQuery, Microsoft Defender |
-| 🌐 Network Monitoring | Wireshark, Zeek, Suricata, snort |
-| 🧠 Threat Intelligence | VirusTotal, MISP, AlienVault OTX |
-| 🚨 Incident Response | TheHive, Cortex, Wazuh |
+| Category | Tools |
+|-------|------|
+| SIEM & Log Analysis | Splunk, ELK Stack, QRadar, Microsoft Sentinel |
+| Endpoint Security | Sysmon, OSQuery, Microsoft Defender |
+| Network Monitoring | Wireshark, Zeek, Suricata, Snort |
+| Threat Intelligence | VirusTotal, MISP, AlienVault OTX |
+| Incident Response | TheHive, Cortex, Wazuh |
 
 </details>
 
@@ -74,14 +93,14 @@ I build strong hands-on expertise through **⚙️ real-world labs, 🧪 SOC sim
 <summary><strong>🔴 Red Team / Offensive Security 💀</strong></summary>
 <br>
 
-| 🧩 Category | 🛠️ Tools |
-|----------|---------|
-| 🕵️ Reconnaissance | Nmap, Amass, Netcat |
-| 🌍 Web App Testing | Burp Suite, SQLmap, Nikto, Gobuster |
-| 💥 Exploitation | Metasploit, CrackMapExec |
-| 🔐 Credential Attacks | Hydra, John The Ripper, Hashcat |
-| 🧬 Active Directory | BloodHound, Mimikatz |
-| 🎯 C2 Knowledge | Cobalt Strike (Knowledge Level) |
+| Category | Tools |
+|-------|------|
+| Reconnaissance | Nmap, Amass, Netcat |
+| Web App Testing | Burp Suite, SQLmap, Nikto, Gobuster |
+| Exploitation | Metasploit, CrackMapExec |
+| Credential Attacks | Hydra, John The Ripper, Hashcat |
+| Active Directory | BloodHound, Mimikatz |
+| C2 Knowledge | Cobalt Strike (Knowledge Level) |
 
 </details>
 
@@ -89,12 +108,12 @@ I build strong hands-on expertise through **⚙️ real-world labs, 🧪 SOC sim
 <summary><strong>🟣 DFIR & Malware Analysis 🧪</strong></summary>
 <br>
 
-| 🧩 Category | 🛠️ Tools |
-|----------|---------|
-| 💾 Disk & Memory Forensics | Autopsy, FTK Imager, Volatility |
-| 🧬 Malware Analysis | Ghidra, IDA (Basic), REMnux |
-| 🧠 Binary Analysis | PEStudio, YARA |
-| 🪟 Windows Internals | Procmon, Process Explorer |
+| Category | Tools |
+|-------|------|
+| Disk & Memory Forensics | Autopsy, FTK Imager, Volatility |
+| Malware Analysis | Ghidra, IDA (Basic), REMnux |
+| Binary Analysis | PEStudio, YARA |
+| Windows Internals | Procmon, Process Explorer |
 
 </details>
 
@@ -102,11 +121,11 @@ I build strong hands-on expertise through **⚙️ real-world labs, 🧪 SOC sim
 <summary><strong>☁️ Cloud & Operating Systems 🖥️</strong></summary>
 <br>
 
-| 🧩 Category | 🛠️ Tools |
-|----------|---------|
-| ☁️ Cloud Security | Azure Security Center, GCP Security Command Center |
-| 🐧 Operating Systems | Kali Linux, Ubuntu, Windows |
-| 🧪 Virtual Labs | VMware, VirtualBox |
+| Category | Tools |
+|-------|------|
+| Cloud Security | Azure Security Center, GCP Security Command Center |
+| Operating Systems | Kali Linux, Ubuntu, Windows |
+| Virtual Labs | VMware, VirtualBox |
 
 </details>
 
@@ -133,14 +152,14 @@ I build strong hands-on expertise through **⚙️ real-world labs, 🧪 SOC sim
 <summary><strong>💻 Programming Certifications</strong></summary>
 <br>
 
-- 🐍 Python Programming (Planned)
-- ☕ Java Programming (Planned)
-- 🌐 JavaScript Fundamentals (Planned)
-- 🖥️ Bash & Linux Scripting (Planned)
-- 🗄️ SQL & Database Fundamentals (Planned)
-- ⚙️ C / C++ Programming (Planned)
-- 🪟 PowerShell for Security Automation (Planned)
-- 💎 Ruby Programming Basics (Planned)
+- Python Programming (Planned)
+- Java Programming (Planned)
+- JavaScript Fundamentals (Planned)
+- Bash & Linux Scripting (Planned)
+- SQL & Database Fundamentals (Planned)
+- C / C++ Programming (Planned)
+- PowerShell for Security Automation (Planned)
+- Ruby Programming Basics (Planned)
 
 </details>
 
@@ -148,7 +167,7 @@ I build strong hands-on expertise through **⚙️ real-world labs, 🧪 SOC sim
 <summary><strong>🔴 Penetration Testing</strong></summary>
 <br>
 
-- soon
+- Coming Soon
 
 </details>
 
@@ -165,17 +184,17 @@ Advanced SPL searches, dashboards, alerts & detection use-cases
 ## 🎯 Career Objective 🎯
 
 Preparing for advanced roles:
-- 🛡️ SOC Analyst (L1–L2)
-- 🔍 Threat Hunter
-- 🧪 DFIR Analyst
-- ☁️ Cloud Security Analyst
-- 🟣 Purple Team Engineer
+- SOC Analyst (L1–L2)
+- Threat Hunter
+- DFIR Analyst
+- Cloud Security Analyst
+- Purple Team Engineer
 
 ---
 
 ## 📫 Contact 📡
-- 🐙 GitHub: https://github.com/tooshy9xr  
-- 💼 LinkedIn: https://www.linkedin.com/in/ali-hayder-ba3b0035  
+- GitHub: https://github.com/tooshy9xr  
+- LinkedIn: https://www.linkedin.com/in/ali-hayder-ba3b0035  
 
 ---
 
