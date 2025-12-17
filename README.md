@@ -29,7 +29,7 @@ I build strong hands-on expertise through **⚙️ real-world labs, 🧪 SOC sim
 </td>
 <td width="35%" align="center">
 
-<img src="./Office Space Nft GIF by Mental Barf.gif" width="340"/>
+<img src="./Office Space Nft GIF by Mental Barf.gif" width="350"/>
 
 </td>
 </tr>
