@@ -1,6 +1,6 @@
 <h1 align="center">⚔️ Ali Hayder | TOOSHY ⚔️</h1>
 <h3 align="center">
-🛡️ Cybersecurity Analyst | SOC | DFIR | Threat Hunting | Splunk | Red & Purple Team
+🛡️ Cybersecurity Analyst | SOC | DF | penetration testion | Splunk | Red & Purple Team
 </h3>
 
 <p align="center">
@@ -21,10 +21,15 @@ I build strong hands-on expertise through **⚙️ real-world labs, 🧪 SOC sim
 
 ### 🎯 Core Focus Areas
 - 🧠 **SIEM Operations & Detection Engineering (Splunk)**
-- 🔍 **Threat Hunting & Adversary Emulation**
-- 🚨 **Incident Response & DFIR (Host & Network)**
 - ☁️ **Cloud Security Monitoring (Azure & GCP)**
 - ⚙️ **Security Automation & Analytics**
+- 🧠 Penetration Testing (Web, Network & Active Directory)
+- 🛠️ Exploitation & Vulnerability Research
+- 🎭 Adversary Emulation & Red Team Operations
+- 🕸️ Web Application Attacks (OWASP Top 10)
+- 🧬 Post-Exploitation, Privilege Escalation & Lateral Movement
+- ☁️ Cloud Offensive Security (Azure & AWS)
+- ⚙️ Red Team Automation & Custom Tooling
 
 </td>
 <td width="35%" align="center">
@@ -59,42 +64,21 @@ I build strong hands-on expertise through **⚙️ real-world labs, 🧪 SOC sim
 <details>
 <summary><strong>🔵 Blue Team / SOC Tools 🛡️</strong></summary>
 <br>
-
-| Category | Tools |
-|-------|------|
-| SIEM & Log Analysis | Splunk, ELK Stack, QRadar, Microsoft Sentinel |
-| Endpoint Security | Sysmon, OSQuery, Microsoft Defender |
-| Network Monitoring | Wireshark, Zeek, Suricata, Snort |
-| Threat Intelligence | VirusTotal, MISP, AlienVault OTX |
-| Incident Response | TheHive, Cortex, Wazuh |
-
+soon ...
 </details>
 
 <details>
 <summary><strong>🔴 Red Team / Offensive Security 💀</strong></summary>
 <br>
 
-| Category | Tools |
-|-------|------|
-| Reconnaissance | Nmap, Amass, Netcat |
-| Web App Testing | Burp Suite, SQLmap, Nikto, Gobuster |
-| Exploitation | Metasploit, CrackMapExec |
-| Credential Attacks | Hydra, John The Ripper, Hashcat |
-| Active Directory | BloodHound, Mimikatz |
-| C2 Knowledge | Cobalt Strike (Knowledge Level) |
-
+soon ... 
 </details>
 
 <details>
 <summary><strong>🟣 DFIR & Malware Analysis 🧪</strong></summary>
 <br>
 
-| Category | Tools |
-|-------|------|
-| Disk & Memory Forensics | Autopsy, FTK Imager, Volatility |
-| Malware Analysis | Ghidra, IDA (Basic), REMnux |
-| Binary Analysis | PEStudio, YARA |
-| Windows Internals | Procmon, Process Explorer |
+soon ...
 
 </details>
 
@@ -102,11 +86,7 @@ I build strong hands-on expertise through **⚙️ real-world labs, 🧪 SOC sim
 <summary><strong>☁️ Cloud & Operating Systems 🖥️</strong></summary>
 <br>
 
-| Category | Tools |
-|-------|------|
-| Cloud Security | Azure Security Center, GCP Security Command Center |
-| Operating Systems | Kali Linux, Ubuntu, Windows |
-| Virtual Labs | VMware, VirtualBox |
+soon ...
 
 </details>
 
@@ -133,15 +113,7 @@ I build strong hands-on expertise through **⚙️ real-world labs, 🧪 SOC sim
 <summary><strong>💻 Programming Certifications</strong></summary>
 <br>
 
-- Python Programming (Planned)
-- Java Programming (Planned)
-- JavaScript Fundamentals (Planned)
-- Bash & Linux Scripting (Planned)
-- SQL & Database Fundamentals (Planned)
-- C / C++ Programming (Planned)
-- PowerShell for Security Automation (Planned)
-- Ruby Programming Basics (Planned)
-
+soon ...
 </details>
 
 <details>
@@ -165,9 +137,12 @@ Advanced SPL searches, dashboards, alerts & detection use-cases
 ## 🎯 Career Objective 🎯
 
 Preparing for advanced roles:
+- Red Team Operator 
+- Penetration Tester (Web, Network & AD) 
+- Adversary Emulation Specialist 
+- Post-Exploitation & Privilege Escalation Specialist 
 - SOC Analyst (L1–L2)
-- Threat Hunter
-- DFIR Analyst
+- DF Analyst
 - Cloud Security Analyst
 - Purple Team Engineer
 
